@@ -8,3 +8,5 @@
 - You can change trainer AI as you progress training
 - Competition: let's see how your neural network performs against AI.
 - What additional features would you need to make training more efficient?
+
+[Top - AGSS 2022 AI ML Workshop](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop)
